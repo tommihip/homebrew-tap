@@ -1,6 +1,6 @@
 cask "termsie" do
-  version "0.8.0"
-  sha256 "5a6ad8b4e667d308a2579a55a6034aaf6707ebe3f09a4188fbeb4a053b697e2a"
+  version "0.9.0"
+  sha256 "aa3284ca1dc87fe20c30a958df7eacea764209c2801be5c4a5269a361e5ad8d9"
 
   url "https://github.com/tommihip/termsie/releases/download/v#{version}/Termsie-#{version}.dmg"
   name "Termsie"
